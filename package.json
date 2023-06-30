@@ -1,10 +1,4 @@
 {
-  "dependencies": {
-    "@fastify/static": "^5.0.2",
-    "axios": "^1.4.0",
-    "fastify": "^4.19.0",
-    "fastify-static": "^3.4.0"
-  },
   "devDependencies": {
     "@types/node": "^20.3.2"
   }
